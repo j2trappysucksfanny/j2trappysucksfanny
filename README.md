@@ -1,0 +1,5 @@
+- 👋 Hi, I’m jacob
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me discord: 6666#7273
+- im looking for people to help me with an accurate age calculator 
